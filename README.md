@@ -1,8 +1,12 @@
 # TIL
-Today I Learned
+**T**oday **I** **L**earned
 
-## 규칙
-- 어뷰징 절대 하지 않는다.
-- 하루에 최소 3커밋 이상을 꾸준히 한다.
-- 주중에는 무조건 커밋을 한다.
-- 주말은 선택적 휴식을 취한다.
+> This repository shows the traces of my intensive work in a Data Science field in general.
+
+## Rule
+- NO cheating
+- I believe in myself
+- At least **THREE commits** per day
+- Analyzing **ONE outstanding code** per day 
+- Probs take a break at the weekend if needed
+
